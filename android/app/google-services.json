@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "746929226306",
+    "project_id": "porichoy-app",
+    "storage_bucket": "porichoy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746929226306:android:128915becf4db5698323db",
+        "android_client_info": {
+          "package_name": "com.example.kotha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746929226306-li2udvchfv737q9lf5i399e0aj82603v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_e5aVdzzDnkQLfik7DY05jO6RFyEXIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746929226306-li2udvchfv737q9lf5i399e0aj82603v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746929226306-911f1lqmntis66ori6u823ffilu3ncq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kotha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
