@@ -26,7 +26,6 @@ import 'package:zego_uikit_prebuilt_call/zego_uikit_prebuilt_call.dart';
 
 import 'view/screens/authentications/user_interest_screen.dart';
 
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   // Create a ZIM SDK instance.
@@ -42,7 +41,6 @@ void main() async {
   // );
   //initialize firebase
   /// 1.1 define a navigator key
- 
 
   /// 1.2: set navigator key to ZegoUIKitPrebuiltCallInvitationService
   ZegoUIKitPrebuiltCallInvitationService().setNavigatorKey(navigatorKey);
